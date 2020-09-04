@@ -4,7 +4,11 @@ Automatic Non-Contact Thermometer V1.2
  - ESP32 Dev Board
  - MLX90614 non contact IR sensor
  - TCRT5000 IR reflected sensor
- - MAX7219  Dotmatrix display driver x 2 nos
+ - MAX7219  Dotmatrix display driver x 3 nos
+
+#TO DO
+- To add nolmal, warning and alert LED, buzzer
+- To calibrate measurement distance to 5cm
  
 Connection MLX90614 
 - VIN -> ESP32 3.3v
