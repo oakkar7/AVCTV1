@@ -29,7 +29,5 @@ Adafruit_MLX90614 Lib
 MAX72XX Display Lib 
 - https://github.com/MajicDesigns/MD_MAX72XX
 
-  By:
-  oakkar7, oakkar7@gmail.com 
-  [oakkar7 blog](https://okelectronic.wordpress.com/)
-  MYANMAR
+By:
+oakkar7, oakkar7@gmail.com [oakkar7 blog](https://okelectronic.wordpress.com/)  MYANMAR
