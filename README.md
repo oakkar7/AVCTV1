@@ -7,8 +7,13 @@ Automatic Non-Contact Thermometer V1.2
  - MAX7219  Dotmatrix display driver x 3 nos
 
 #TO DO
-- To add nolmal, warning and alert LED, buzzer
 - To calibrate measurement distance to 5cm
+
+#Updated
+- Added nolmal, warning and alert LED, buzzer
+
+#Idea
+- May add Wifi access pages
  
 Connection MLX90614 
 - VIN -> ESP32 3.3v
@@ -24,6 +29,12 @@ MAX MAX7219
 - DOUT - ESP32
 - CS - ESP32
 - CLK - ESP32
+
+LED and Buzzer
+- NORMAL LED - ESP32 25
+- WARNING LED - ESP32 26
+- ALERT LED - ESP32 27
+- BUZZER 14 - ESP32 14
  
 Used:
 Adafruit_MLX90614 Lib
